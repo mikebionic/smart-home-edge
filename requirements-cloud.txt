@@ -1,0 +1,3 @@
+# extra deps for the Google Cloud deployment (not needed for the edge/laptop demo)
+google-genai
+firebase-admin
